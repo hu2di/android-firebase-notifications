@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478031393660",
+    "firebase_url": "https://huyhung-dinh.firebaseio.com",
+    "project_id": "huyhung-dinh",
+    "storage_bucket": "huyhung-dinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478031393660:android:89bd0947b5b7b466",
+        "android_client_info": {
+          "package_name": "com.blogspot.hu2di.firebase.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478031393660-21i9gckt0k4iequuj6oo10e1r53jr9t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.hu2di.firebase.notifications",
+            "certificate_hash": "b3c3eb5d01d3eec9b73afac5685eb0c2c7f9fbe6"
+          }
+        },
+        {
+          "client_id": "478031393660-vhhg7kvph3232u0qto4tfmkvkerf3li0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVr5aEt_Z-KlX4c4P6iMknjBZjy-A0hY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478031393660-vhhg7kvph3232u0qto4tfmkvkerf3li0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
